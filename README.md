@@ -1,16 +1,31 @@
-## Hi there 👋
+# ☕ Добро пожаловать! 👋
 
-<!--
-**KlimenkoKayot/KlimenkoKayot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Здесь вы можете найти мои работы на разных языках, <br /> таких как Golang, C++, Python...
 
-Here are some ideas to get you started:
+- 📓 Многолетний опыт решения алгоритмических задач на C++ 
+- 🐹 Занимаюсь разработкой веб-сервисов на Go
+- 🐍 Пишу скрипты на Python
+  
+- 💬 Всегда открыт для связи и предложений!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связь со мной...
+- 🔮 [Telegram](https://t.me/kayot123)
+- 💻 [VK (редко)](https://vk.com/lkayot)
+- 📧 george_klimenko@mail.ru
+
+_________________________________________________________
+
+# ☕ Welcome! 👋
+
+## Here you can find my works on different language, like Golang, C++, Python...
+
+- 📓 Big experience in solving algorithm problems on C++
+- 🐹 Development web-services on Go
+- 🐍 Development scripts on Python
+  
+- 💬 Open for communication and suggestions!
+
+## My profiles (and email)...
+- 🔮 [Telegram](https://t.me/kayot123)
+- 💻 [VK (less)](https://vk.com/lkayot)
+- 📧 george_klimenko@mail.ru
