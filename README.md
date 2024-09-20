@@ -1,6 +1,6 @@
 # ☕ Добро пожаловать! 👋
 
-![Static Badge](https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fkayot123)
+[![Static Badge](https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fkayot123)](https://t.me/kayot123)
 
 ## Здесь вы можете найти мои работы на разных языках, <br /> таких как Golang, C++, Python...
 
