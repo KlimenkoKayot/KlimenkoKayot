@@ -11,7 +11,7 @@
 - 💬 Всегда открыт для связи и предложений!
 
 ## Связь со мной...
-- 🔮 [Telegram](https://t.me/kayot123)
+- 🔮 [Telegram](https://t.me/kayotklimenko)
 - 💻 [VK (редко)](https://vk.com/lkayot)
 - 📧 george_klimenko@mail.ru
 
