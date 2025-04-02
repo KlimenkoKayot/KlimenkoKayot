@@ -1,5 +1,5 @@
 # ☕ Добро пожаловать! 👋
-
+![IMG_3266](https://github.com/Sunr1seColours/Sunr1seColours/assets/138494299/a73a4c6b-5a11-4ba0-ab8b-0b940dc7dba2)
 [![Static Badge](https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fkayot123)](https://t.me/kayot123)
 
 ## Здесь вы можете найти мои работы на разных языках, <br /> таких как Golang, C++, Python...
